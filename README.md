@@ -7,4 +7,3 @@ kmp makes 6th commit
 kmp makes 7th commit
 rand makes 8th commit kmp branch
 kmp makes 9tn commit
-kmp makes 11th commit
